@@ -1,0 +1,7 @@
+1.Change enum UnitName in UnitDataList_SO.cs
+1.2. In Scripts/OldInventorySystem/Inventory Folder we need to create new equipment inventory  
+1.3 create prefabs for each ship
+2.Add new element in UnitDataList ScriptableObject in DATA folder 
+4. In Assets/Prefab we need to create new equipment Screen
+5. Edit new equipment Inventory based on slots on equipment Screen;//remember adding save path and database
+6. remember to assign the equipment canvas to each interface

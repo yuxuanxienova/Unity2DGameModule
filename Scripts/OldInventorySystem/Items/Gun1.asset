@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb97c20d28ea57d4f953b3aacd3722d9, type: 3}
+  m_Name: Gun1
+  m_EditorClassIdentifier: 
+  uiDisplay: {fileID: 21300000, guid: 516a51780387b81488bf02ab51fd6fc4, type: 3}
+  stackable: 0
+  type: 4
+  description: 
+  data:
+    Name: 
+    Id: 1
+    coolDownTime: 5
+    range: 15
+    buffs:
+    - attribute: 3
+      value: 0
+      min: 10
+      max: 20

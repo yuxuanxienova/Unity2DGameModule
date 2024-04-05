@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb97c20d28ea57d4f953b3aacd3722d9, type: 3}
+  m_Name: ID21Item
+  m_EditorClassIdentifier: 
+  uiDisplay: {fileID: 21300000, guid: 095cf9f48374fd74f9a575fdad105fc4, type: 3}
+  stackable: 0
+  type: 3
+  description: 
+  data:
+    Name: 'T2_EW_ID21 '
+    Id: 21
+    coolDownTime: 0.5
+    range: 10
+    spreading: 1
+    buffs: []

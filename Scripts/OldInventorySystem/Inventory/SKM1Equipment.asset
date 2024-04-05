@@ -1,0 +1,343 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 414588fa2acc7794db582708b4b724da, type: 3}
+  m_Name: SKM1Equipment
+  m_EditorClassIdentifier: 
+  savePath: /SKM1Equipment_Data.Save
+  database: {fileID: 11400000, guid: 175841d8ca9138547ad744f10a1c7d90, type: 2}
+  type: 1
+  Container:
+    Slots:
+    - gunEulerAngleLeftUpperLimit: 0
+      gunEulerAngleLeftLowerLimit: 0
+      gunEulerAngleRightUpperLimit: 0
+      gunEulerAngleRightLowerLimit: 0
+      AllowedItems: 050000000000000001000000
+      item:
+        Name: 
+        Id: -1
+        coolDownTime: 0
+        range: 0
+        buffs: []
+      amount: 0
+    - gunEulerAngleLeftUpperLimit: 0
+      gunEulerAngleLeftLowerLimit: 0
+      gunEulerAngleRightUpperLimit: 0
+      gunEulerAngleRightLowerLimit: 0
+      AllowedItems: 050000000000000001000000
+      item:
+        Name: 
+        Id: -1
+        coolDownTime: 0
+        range: 0
+        buffs: []
+      amount: 0
+    - gunEulerAngleLeftUpperLimit: 0
+      gunEulerAngleLeftLowerLimit: 0
+      gunEulerAngleRightUpperLimit: 0
+      gunEulerAngleRightLowerLimit: 0
+      AllowedItems: 050000000000000001000000
+      item:
+        Name: 
+        Id: -1
+        coolDownTime: 0
+        range: 0
+        buffs: []
+      amount: 0
+    - gunEulerAngleLeftUpperLimit: 0
+      gunEulerAngleLeftLowerLimit: 0
+      gunEulerAngleRightUpperLimit: 0
+      gunEulerAngleRightLowerLimit: 0
+      AllowedItems: 050000000000000001000000
+      item:
+        Name: 
+        Id: -1
+        coolDownTime: 0
+        range: 0
+        buffs: []
+      amount: 0
+    - gunEulerAngleLeftUpperLimit: 150
+      gunEulerAngleLeftLowerLimit: 0
+      gunEulerAngleRightUpperLimit: 0
+      gunEulerAngleRightLowerLimit: -120
+      AllowedItems: 05000000000000000100000003000000
+      item:
+        Name: 
+        Id: -1
+        coolDownTime: 0
+        range: 0
+        buffs: []
+      amount: 0
+    - gunEulerAngleLeftUpperLimit: 120
+      gunEulerAngleLeftLowerLimit: 0
+      gunEulerAngleRightUpperLimit: 0
+      gunEulerAngleRightLowerLimit: -150
+      AllowedItems: 05000000000000000100000003000000
+      item:
+        Name: 
+        Id: -1
+        coolDownTime: 0
+        range: 0
+        buffs: []
+      amount: 0
+    - gunEulerAngleLeftUpperLimit: 0
+      gunEulerAngleLeftLowerLimit: 0
+      gunEulerAngleRightUpperLimit: 0
+      gunEulerAngleRightLowerLimit: 0
+      AllowedItems: 050000000000000001000000
+      item:
+        Name: 
+        Id: -1
+        coolDownTime: 0
+        range: 0
+        buffs: []
+      amount: 0
+    - gunEulerAngleLeftUpperLimit: 0
+      gunEulerAngleLeftLowerLimit: 0
+      gunEulerAngleRightUpperLimit: 0
+      gunEulerAngleRightLowerLimit: 0
+      AllowedItems: 050000000000000001000000
+      item:
+        Name: 
+        Id: -1
+        coolDownTime: 0
+        range: 0
+        buffs: []
+      amount: 0
+    - gunEulerAngleLeftUpperLimit: 150
+      gunEulerAngleLeftLowerLimit: 0
+      gunEulerAngleRightUpperLimit: 0
+      gunEulerAngleRightLowerLimit: -100
+      AllowedItems: 05000000000000000100000003000000
+      item:
+        Name: 
+        Id: -1
+        coolDownTime: 0
+        range: 0
+        buffs: []
+      amount: 0
+    - gunEulerAngleLeftUpperLimit: 100
+      gunEulerAngleLeftLowerLimit: 0
+      gunEulerAngleRightUpperLimit: 0
+      gunEulerAngleRightLowerLimit: -150
+      AllowedItems: 05000000000000000100000003000000
+      item:
+        Name: 
+        Id: -1
+        coolDownTime: 0
+        range: 0
+        buffs: []
+      amount: 0
+    - gunEulerAngleLeftUpperLimit: 0
+      gunEulerAngleLeftLowerLimit: 0
+      gunEulerAngleRightUpperLimit: 0
+      gunEulerAngleRightLowerLimit: 0
+      AllowedItems: 050000000000000001000000
+      item:
+        Name: 
+        Id: -1
+        coolDownTime: 0
+        range: 0
+        buffs: []
+      amount: 0
+    - gunEulerAngleLeftUpperLimit: 0
+      gunEulerAngleLeftLowerLimit: 0
+      gunEulerAngleRightUpperLimit: 0
+      gunEulerAngleRightLowerLimit: 0
+      AllowedItems: 050000000000000001000000
+      item:
+        Name: 
+        Id: -1
+        coolDownTime: 0
+        range: 0
+        buffs: []
+      amount: 0
+    - gunEulerAngleLeftUpperLimit: 0
+      gunEulerAngleLeftLowerLimit: 0
+      gunEulerAngleRightUpperLimit: 0
+      gunEulerAngleRightLowerLimit: 0
+      AllowedItems: 050000000000000001000000
+      item:
+        Name: 
+        Id: -1
+        coolDownTime: 0
+        range: 0
+        buffs: []
+      amount: 0
+    - gunEulerAngleLeftUpperLimit: 0
+      gunEulerAngleLeftLowerLimit: 0
+      gunEulerAngleRightUpperLimit: 0
+      gunEulerAngleRightLowerLimit: 0
+      AllowedItems: 050000000000000001000000
+      item:
+        Name: 
+        Id: -1
+        coolDownTime: 0
+        range: 0
+        buffs: []
+      amount: 0
+    - gunEulerAngleLeftUpperLimit: 0
+      gunEulerAngleLeftLowerLimit: 0
+      gunEulerAngleRightUpperLimit: 0
+      gunEulerAngleRightLowerLimit: 0
+      AllowedItems: 050000000000000001000000
+      item:
+        Name: 
+        Id: -1
+        coolDownTime: 0
+        range: 0
+        buffs: []
+      amount: 0
+    - gunEulerAngleLeftUpperLimit: 0
+      gunEulerAngleLeftLowerLimit: 0
+      gunEulerAngleRightUpperLimit: 0
+      gunEulerAngleRightLowerLimit: 0
+      AllowedItems: 050000000000000001000000
+      item:
+        Name: 
+        Id: -1
+        coolDownTime: 0
+        range: 0
+        buffs: []
+      amount: 0
+    - gunEulerAngleLeftUpperLimit: 0
+      gunEulerAngleLeftLowerLimit: 0
+      gunEulerAngleRightUpperLimit: 0
+      gunEulerAngleRightLowerLimit: 0
+      AllowedItems: 050000000000000001000000
+      item:
+        Name: 
+        Id: -1
+        coolDownTime: 0
+        range: 0
+        buffs: []
+      amount: 0
+    - gunEulerAngleLeftUpperLimit: 180
+      gunEulerAngleLeftLowerLimit: 0
+      gunEulerAngleRightUpperLimit: 0
+      gunEulerAngleRightLowerLimit: -180
+      AllowedItems: 05000000000000000100000003000000
+      item:
+        Name: 
+        Id: -1
+        coolDownTime: 0
+        range: 0
+        buffs: []
+      amount: 0
+    - gunEulerAngleLeftUpperLimit: 0
+      gunEulerAngleLeftLowerLimit: 0
+      gunEulerAngleRightUpperLimit: 0
+      gunEulerAngleRightLowerLimit: 0
+      AllowedItems: 050000000000000001000000
+      item:
+        Name: 
+        Id: -1
+        coolDownTime: 0
+        range: 0
+        buffs: []
+      amount: 0
+    - gunEulerAngleLeftUpperLimit: 0
+      gunEulerAngleLeftLowerLimit: 0
+      gunEulerAngleRightUpperLimit: 0
+      gunEulerAngleRightLowerLimit: 0
+      AllowedItems: 050000000000000001000000
+      item:
+        Name: 
+        Id: -1
+        coolDownTime: 0
+        range: 0
+        buffs: []
+      amount: 0
+    - gunEulerAngleLeftUpperLimit: 0
+      gunEulerAngleLeftLowerLimit: 0
+      gunEulerAngleRightUpperLimit: 0
+      gunEulerAngleRightLowerLimit: 0
+      AllowedItems: 050000000000000001000000
+      item:
+        Name: 
+        Id: -1
+        coolDownTime: 0
+        range: 0
+        buffs: []
+      amount: 0
+    - gunEulerAngleLeftUpperLimit: 0
+      gunEulerAngleLeftLowerLimit: 0
+      gunEulerAngleRightUpperLimit: 0
+      gunEulerAngleRightLowerLimit: 0
+      AllowedItems: 050000000000000001000000
+      item:
+        Name: 
+        Id: -1
+        coolDownTime: 0
+        range: 0
+        buffs: []
+      amount: 0
+    - gunEulerAngleLeftUpperLimit: 0
+      gunEulerAngleLeftLowerLimit: 0
+      gunEulerAngleRightUpperLimit: 0
+      gunEulerAngleRightLowerLimit: 0
+      AllowedItems: 050000000000000001000000
+      item:
+        Name: 
+        Id: -1
+        coolDownTime: 0
+        range: 0
+        buffs: []
+      amount: 0
+    - gunEulerAngleLeftUpperLimit: 0
+      gunEulerAngleLeftLowerLimit: 0
+      gunEulerAngleRightUpperLimit: 0
+      gunEulerAngleRightLowerLimit: 0
+      AllowedItems: 050000000000000001000000
+      item:
+        Name: 
+        Id: -1
+        coolDownTime: 0
+        range: 0
+        buffs: []
+      amount: 0
+    - gunEulerAngleLeftUpperLimit: 0
+      gunEulerAngleLeftLowerLimit: 0
+      gunEulerAngleRightUpperLimit: 0
+      gunEulerAngleRightLowerLimit: 0
+      AllowedItems: 050000000000000001000000
+      item:
+        Name: 
+        Id: -1
+        coolDownTime: 0
+        range: 0
+        buffs: []
+      amount: 0
+    - gunEulerAngleLeftUpperLimit: 0
+      gunEulerAngleLeftLowerLimit: 0
+      gunEulerAngleRightUpperLimit: 0
+      gunEulerAngleRightLowerLimit: 0
+      AllowedItems: 050000000000000001000000
+      item:
+        Name: 
+        Id: -1
+        coolDownTime: 0
+        range: 0
+        buffs: []
+      amount: 0
+    - gunEulerAngleLeftUpperLimit: 0
+      gunEulerAngleLeftLowerLimit: 0
+      gunEulerAngleRightUpperLimit: 0
+      gunEulerAngleRightLowerLimit: 0
+      AllowedItems: 050000000000000001000000
+      item:
+        Name: 
+        Id: -1
+        coolDownTime: 0
+        range: 0
+        buffs: []
+      amount: 0

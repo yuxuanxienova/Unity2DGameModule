@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09cbb7b27bd144543a0e7e636a80b94e, type: 3}
+  m_Name: UnitDataList_SO
+  m_EditorClassIdentifier: 
+  UnitDetailsList:
+  - unitName: 1
+    unitSprite: {fileID: 21300000, guid: 9ece2e7b6704caf418714e15d32e9372, type: 3}
+    unitPrefab: {fileID: 312379310976923491, guid: 317eccfc826845a438805a35b1f26e39, type: 3}
+    unitEquipmentInventory: {fileID: 11400000, guid: 1e634a09b4a53fd4ca00b5bc0265d977, type: 2}
+  - unitName: 2
+    unitSprite: {fileID: 21300000, guid: 275989b31c7a9d24a9701c8a8aa9271f, type: 3}
+    unitPrefab: {fileID: 9222271588685642931, guid: f54f349352b45584e8f2496b5276fcf1, type: 3}
+    unitEquipmentInventory: {fileID: 11400000, guid: 6cc3855530449aa49bba7ceb4e2ffad8, type: 2}
+  - unitName: 4
+    unitSprite: {fileID: 21300000, guid: 1cd0cb68993c4cf42a26b1ae91f7efbe, type: 3}
+    unitPrefab: {fileID: 5591837193504215420, guid: bcf8ccea39ca8e340b9b351ee787e341, type: 3}
+    unitEquipmentInventory: {fileID: 11400000, guid: 1ca9303025c778046a872925081847af, type: 2}
+  - unitName: 5
+    unitSprite: {fileID: 21300000, guid: 169fc25340e3aae448b2be7607320cf5, type: 3}
+    unitPrefab: {fileID: 8665925715588786571, guid: afad04083ead6c0468f67740f2c794a1, type: 3}
+    unitEquipmentInventory: {fileID: 11400000, guid: dfcf838d8fabe9c408d59fd086240496, type: 2}
+  - unitName: 6
+    unitSprite: {fileID: 21300000, guid: 015f9e58e2d03f14786916558dee3f97, type: 3}
+    unitPrefab: {fileID: 7394804286102894502, guid: 5af0c7b7d6f634640b901d1654c2409d, type: 3}
+    unitEquipmentInventory: {fileID: 11400000, guid: 0913af9a17867394b8e20c607ba3e89e, type: 2}
+  - unitName: 7
+    unitSprite: {fileID: 21300000, guid: 8fed7b9042191d849a05673eaa3b60bd, type: 3}
+    unitPrefab: {fileID: 4988926478695209559, guid: 10b5f5bea6602404c853a1888d8af2de, type: 3}
+    unitEquipmentInventory: {fileID: 11400000, guid: a48b7cf9091ca634ca667dbfdd510cda, type: 2}
+  - unitName: 8
+    unitSprite: {fileID: 21300000, guid: 859d2580a9aa151488b2b89653352de5, type: 3}
+    unitPrefab: {fileID: 7394804286102894502, guid: 91f9d67ec63a5f9409f6b9112ba29745, type: 3}
+    unitEquipmentInventory: {fileID: 11400000, guid: 8906cfb8ba59014488dcd5599c5e2214, type: 2}
+  - unitName: 9
+    unitSprite: {fileID: 21300000, guid: 5f377a35488c9e943925b7a257c79c73, type: 3}
+    unitPrefab: {fileID: 7394804286102894502, guid: 12f92acf7a9bb6444becb8701d430561, type: 3}
+    unitEquipmentInventory: {fileID: 11400000, guid: a34555033438dd041be88020bbf6eda4, type: 2}
+  - unitName: 10
+    unitSprite: {fileID: 21300000, guid: 993c459011c1a9d438bcb9fe0be269a4, type: 3}
+    unitPrefab: {fileID: 7394804286102894502, guid: b3a5cd6ed3ce25e4688545464a81dd23, type: 3}
+    unitEquipmentInventory: {fileID: 11400000, guid: 4c0974ab7445f50448385d82beae66df, type: 2}
+  - unitName: 11
+    unitSprite: {fileID: 21300000, guid: f2b4c6cc06c9ae6408b507acd8dd566f, type: 3}
+    unitPrefab: {fileID: 7394804286102894502, guid: 52c860569d4f9b64b946b32a08020aff, type: 3}
+    unitEquipmentInventory: {fileID: 11400000, guid: 17368c119f3b7324d86e10735ded3a7d, type: 2}
